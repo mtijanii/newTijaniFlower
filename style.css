@@ -4,7 +4,7 @@
     --headingText: #e65f95;
     --headingTextSpan: #001524;
     --paraText: #445D48;
-    --bgHeading: #ffc7e9be;
+    --bgHeading: #ffc7e972;
     --bgColor: #f0f0f0;
 }
 
@@ -283,7 +283,7 @@ ul li{
   justify-content: center;
 }
 .about .container .about-heading h2{
-  font-size: 35px;
+  font-size: 28px;
 
 }
 .about .container .about-content .about-text h2{
