@@ -2,7 +2,7 @@
 
 :root {
     --headingText: #e65f95;
-    --headingTextSpan: #001524;
+    --headingTextSpan: #ffc7e9be;
     --paraText: #445D48;
     --bgHeading: #D9C6B5;
     --bgColor: #f0f0f0;
@@ -518,7 +518,7 @@ box-shadow: 0 0 10px #ddd;
     justify-content: center;
   }
   .contact .container .contact-all form{
-    width: 80%;
+    width: 100%;
   }
 }
 .contact .container .contact-all form input{
@@ -576,7 +576,7 @@ footer .container .social i:hover{
 }
 @media (max-width: 508px){
   footer .container h4 {
-    font-size: 90%;
+    font-size: 80%;
   }
   footer .container .social i{
     font-size: 100%;
